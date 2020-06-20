@@ -25,7 +25,7 @@ end
 
 def sorted_matrix
   conventional =  ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
-  oranic = ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"] 
+  organic = ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"] 
   storage_room_sorted = conventional.sort, organic.sort
 end
 
